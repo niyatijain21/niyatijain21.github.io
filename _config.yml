@@ -11,16 +11,14 @@ resume: resume.pdf
 social:
   - title: email
     url: mailto:niyatijain2104@gmail.com
-  - title: twitter
-    url: https://twitter.com/niyatijain21
-  - title: instagram
-    url: https://instagram.com/niyatijain21
   - title: github
     url: https://github.com/niyatijain21
   - title: linkedin
     url: https://linkedin.com/in/niyatijain21
-  - title: codepen
-    url: https://codepen.io/niyatijain21
+  - title: pinterest
+    url: https://pinterest.com/niyatijain21
+  - title: spotify
+    url: https://open.spotify.com/user/niyatijain21
 
 # Build settings
 markdown: kramdown
