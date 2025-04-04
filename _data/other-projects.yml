@@ -160,3 +160,72 @@
     - thing: CSS
     - thing: JavaScript
     - thing: jQuery
+
+- name: Smart Health Tracker
+  url: https://github.com/niyatijain21/smart-health-tracker
+  code: https://github.com/niyatijain21/smart-health-tracker
+  description: A comprehensive health tracking application that integrates with wearable devices to provide personalized health insights and recommendations.
+  used:
+    - thing: React
+    - thing: Node.js
+    - thing: MongoDB
+    - thing: Express
+    - thing: API Integration
+
+- name: E-commerce Platform
+  url: https://github.com/niyatijain21/ecommerce-platform
+  code: https://github.com/niyatijain21/ecommerce-platform
+  description: A full-featured e-commerce platform with product catalog, user authentication, shopping cart, and payment processing capabilities.
+  used:
+    - thing: Java
+    - thing: Spring Boot
+    - thing: PostgreSQL
+    - thing: React
+    - thing: Redux
+    - thing: Stripe API
+
+- name: AI Image Recognition
+  url: https://github.com/niyatijain21/ai-image-recognition
+  code: https://github.com/niyatijain21/ai-image-recognition
+  description: An image recognition system powered by machine learning algorithms that can identify objects, scenes, and people in photos with high accuracy.
+  used:
+    - thing: Python
+    - thing: TensorFlow
+    - thing: OpenCV
+    - thing: Flask
+    - thing: HTML/CSS
+    - thing: JavaScript
+
+- name: Cloud-based Note Taking App
+  url: https://github.com/niyatijain21/cloud-notes
+  code: https://github.com/niyatijain21/cloud-notes
+  description: A secure note-taking application with real-time synchronization, markdown support, and categorization features.
+  used:
+    - thing: React
+    - thing: Firebase
+    - thing: Node.js
+    - thing: Express
+    - thing: CSS
+
+- name: Weather Dashboard
+  url: https://github.com/niyatijain21/weather-dashboard
+  code: https://github.com/niyatijain21/weather-dashboard
+  description: An interactive weather dashboard that provides real-time weather information, forecasts, and historical data for locations worldwide.
+  used:
+    - thing: JavaScript
+    - thing: HTML/CSS
+    - thing: OpenWeather API
+    - thing: Chart.js
+    - thing: Responsive Design
+
+- name: Task Management System
+  url: https://github.com/niyatijain21/task-management
+  code: https://github.com/niyatijain21/task-management
+  description: A comprehensive task management application with features like task assignment, progress tracking, deadline notifications, and reporting.
+  used:
+    - thing: Angular
+    - thing: TypeScript
+    - thing: Java
+    - thing: Spring Boot
+    - thing: MySQL
+    - thing: Bootstrap
