@@ -1,3 +1,14 @@
+- name: RAG-based Senior TV Assistant Chatbot
+  url: https://github.com/niyatijain21/rag-chatbot
+  code: https://github.com/niyatijain21/rag-chatbot
+  description: Built a Gen AI application using Langchain with ChromaDB as vector storage, Huggingface model for vector embeddings, Google Gemma 2 LLM model and Streamlit for interactive front-end interface. The chatbot stores chat history and answers questions related to TV setup, content selection, and troubleshooting for older adults remotely.
+  used:
+    - thing: Langchain
+    - thing: ChromaDB
+    - thing: Hugging Face
+    - thing: Google Gemma 2
+    - thing: Streamlit
+
 - name: Machine Learning Algorithms for Intrusion Detection
   url: https://link.springer.com/chapter/10.1007/978-981-16-7993-3_49
   code: https://github.com/niyatijain21/ML-Algorithms-for-Intrusion-Detection
@@ -41,25 +52,3 @@
     - thing: LSTM
     - thing: Siamese Networks
     - thing: Biometric Authentication
-
-- name: Generative AI Applications
-  url: https://github.com/niyatijain21/generative-ai-applications
-  code: https://github.com/niyatijain21/generative-ai-applications
-  description: Created various applications leveraging generative AI techniques using Langchain and Hugging Face models. Implemented document retrievers, conversational agents, and content generation tools for different use cases.
-  used:
-    - thing: Python
-    - thing: Langchain
-    - thing: Hugging Face
-    - thing: LLMs
-    - thing: Vector Databases
-    
-- name: ETL Data Warehouse Project
-  url: https://github.com/niyatijain21/etl-data-warehouse
-  code: https://github.com/niyatijain21/etl-data-warehouse
-  description: Built a comprehensive ETL pipeline and data warehouse solution using Microsoft Azure services including Data Factory, Databricks, and Azure SQL. Implemented CI/CD workflows for automated deployment and testing.
-  used:
-    - thing: Azure
-    - thing: Databricks
-    - thing: SQL
-    - thing: ETL
-    - thing: CI/CD
