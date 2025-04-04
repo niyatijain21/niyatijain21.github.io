@@ -53,7 +53,3 @@
     - thing: Siamese Networks
     - thing: Biometric Authentication
 
-- name: RAG-based Gen AI app using Ollama and StreamLit
-  url: https://github.com/niyatijain21/Created-a-RAG-based-Gen-AI-app-using-Ollama-and-StreamLit
-  code: https://github.com/niyatijain21/Created-a-RAG-based-Gen-AI-app-using-Ollama-and-StreamLit
-  description: Built a Gen AI application using Langchain with ChromaDB as vector storage, Huggingface model for vector embeddings, Google Gemma 2 LLM model and Streamlit for interactive front-end interface. The chatbot stores chat history and answers questions related to TV setup, content selection, and troubleshooting for older adults remotely.
