@@ -1,34 +1,34 @@
 languages:
-  - item: Java
   - item: Python
-  - item: JavaScript (ES6)
-  - item: HTML/CSS
   - item: SQL
-  - item: C/C++
-  - item: TypeScript
+  - item: C++
+  - item: JavaScript
+  - item: HTML/CSS
+  - item: Scala
+  - item: MATLAB
 
 frameworks:
+  - item: Hadoop
+  - item: Spark
+  - item: Airflow
+  - item: Django
   - item: React
   - item: Node.js
-  - item: Spring Boot
-  - item: Express.js
-  - item: Django
-  - item: Flask
-  - item: Bootstrap
+  - item: Docker/Kubernetes
 
 tools:
-  - item: Git & GitHub
-  - item: Docker
   - item: AWS
-  - item: MongoDB
-  - item: PostgreSQL
-  - item: Jira
-  - item: Postman
+  - item: Azure
+  - item: GCP
+  - item: Git
+  - item: Jira/Confluence
+  - item: RESTful APIs
+  - item: MS Office
 
 design:
-  - item: Figma
-  - item: Adobe XD
-  - item: UI/UX Design
-  - item: Wireframing
-  - item: Prototyping
-  - item: Responsive Design
+  - item: TensorFlow/PyTorch
+  - item: Tableau/Power BI
+  - item: Snowflake/Databricks
+  - item: ETL Pipeline Design
+  - item: Data Visualization
+  - item: CI/CD Workflows

@@ -1,26 +1,26 @@
 # Site settings
 name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
-description: Design-minded front-end software engineer focused on building beautiful interfaces and experiences
-url: https://brittanychiang.com/
+title: Niyati Jain | Data Engineer
+description: Data Engineer based in New Brunswick, NJ
+url: https://niyatijain21.github.io/
 baseurl: ""
-email: brittany.chiang@gmail.com
-cover: https://brittanychiang.com/img/og.png
-logo: https://brittanychiang.com/img/emojis/technologist.png
-resume: https://brittanychiang.com/resume.pdf
+email: niyatijain2104@gmail.com
+cover: img/og.png
+logo: img/logo/logo1.png
+resume: resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:niyatijain2104@gmail.com
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/niyatijain21
   - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: codepen
-    url: http://codepen.io/bchiang7
+    url: https://instagram.com/niyatijain21
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/niyatijain21
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://linkedin.com/in/niyatijain21
+  - title: codepen
+    url: https://codepen.io/niyatijain21
 
 # Build settings
 markdown: kramdown
@@ -40,6 +40,6 @@ keep_files:
   - ".git"
   - ".gitignore"
 
-plugins_dir:
+plugins:
   - jekyll-minifier
   - jekyll-sitemap

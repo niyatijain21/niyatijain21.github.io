@@ -1,24 +1,14 @@
-- company: Tech Innovations Inc.
-  url: https://www.techinnovations.com/
-  time: June 2021 - Present
-  position: Senior Software Engineer
+- company: Sayari
+  url: https://sayari.com/
+  time: January 2025 - Present
+  position: Data Engineer
 
-- company: DataSystems Solutions
-  url: https://www.datasystems.com/
-  time: July 2019 - May 2021
-  position: Software Engineer
+- company: Educational Testing Services (ETS)
+  url: https://www.ets.org/
+  time: June 2023 - August 2023
+  position: Data Scientist Intern
 
-- company: WebApps Development
-  url: https://www.webappsdevelopment.com/
-  time: January 2018 - June 2019
-  position: Frontend Developer
-
-- company: Cloud Computing Solutions
-  url: https://www.cloudcomputing.com/
-  time: May 2017 - December 2017
-  position: Software Engineering Intern
-
-- company: University Research Lab
-  url: https://www.universityresearch.edu/
-  time: August 2016 - April 2017
-  position: Research Assistant
+- company: PhonePe
+  url: https://www.phonepe.com/
+  time: January 2022 - June 2022
+  position: Business Analyst Intern
