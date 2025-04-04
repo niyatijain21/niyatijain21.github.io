@@ -7,28 +7,26 @@ languages:
   - item: Scala
   - item: MATLAB
 
-frameworks:
+big_data_frameworks:
   - item: Hadoop
   - item: Spark
   - item: Airflow
   - item: Django
-  - item: React
-  - item: Node.js
-  - item: Docker/Kubernetes
+  - item: Docker
+  - item: Kubernetes
 
-tools:
+databases_cloud:
+  - item: NoSQL
   - item: AWS
   - item: Azure
   - item: GCP
-  - item: Git
-  - item: Jira/Confluence
-  - item: RESTful APIs
-  - item: MS Office
+  - item: Oracle
+  - item: Databricks
+  - item: Snowflake
+  - item: Bigquery
 
-design:
-  - item: TensorFlow/PyTorch
-  - item: Tableau/Power BI
-  - item: Snowflake/Databricks
-  - item: ETL Pipeline Design
-  - item: Data Visualization
-  - item: CI/CD Workflows
+bi_tools:
+  - item: Tableau
+  - item: Power BI
+  - item: Qlikview
+  - item: Alteryx
